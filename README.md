@@ -1,12 +1,12 @@
 # CSS utils generator
 ## Features
-> Generates a minified file for CSS utility classes.
-> Generates a guide file for quick explaination and for feeding into AI models with as few tokens as possible.
+* Generates a minified file for CSS utility classes.
+* Generates a guide file for quick explaination and for feeding into AI models with as few tokens as possible.
 
 ## Requirements:
-> Tested on Python 3.13, will probably work on Python 3.6 and newer
-> Requires a `../../static/css` directory by default.
-> The brotli command line tool
+* Tested on Python 3.13, will probably work on Python 3.6 and newer
+* Requires a `../../static/css` directory by default.
+* The brotli command line tool
 
 ## CSS Variables
 The following CSS variables are used:
